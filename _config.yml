@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Sheikh Hamza
-middle_name: Elahi
-last_name: Sodana
+first_name: Sheikh Hamza Elahi Sodana
+middle_name:
+last_name:
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
