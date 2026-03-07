@@ -1,8 +1,25 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: ScholarRAG
+description: A hybrid Retrieval-Augmented Generation system that answers research queries using a FAISS-indexed vector store of academic papers.
 img: assets/img/7.jpg
+importance: 3
+category: AI
+---
+
+A hybrid **Retrieval-Augmented Generation (RAG)** system that answers research queries using a FAISS-indexed vector store of academic papers with optional live Wikipedia retrieval.
+
+**Key Features:**
+- Document ingestion, embedding, and context-assembly pipeline via LangChain.
+- FAISS vector store for fast similarity search over academic papers.
+- Optional live Wikipedia retrieval for up-to-date context.
+- Citation tracking and REST API for research Q&A.
+- 99% retrieval accuracy on benchmark queries.
+
+**Tech Stack:** Python, LangChain, FAISS, OpenAI API, Wikipedia
+
+**GitHub:** <a href="https://github.com/soddi1/research-rag-assistant" target="_blank">soddi1/research-rag-assistant</a>
+
 redirect: https://unsplash.com
 importance: 3
 category: work
