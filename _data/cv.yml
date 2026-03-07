@@ -1,15 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Sheikh Hamza Elahi Sodana
-    - name: Email
-      value: sodana@arizona.edu
-    - name: Location
-      value: Tucson, Arizona
-    - name: Languages
-      value: English, Urdu
-
 - title: Education
   type: time_table
   contents:
@@ -17,63 +5,65 @@
       institution: University of Arizona, Tucson, AZ, USA
       year: Aug. 2026
       description:
-        - Incoming PhD student.
-    - title: Bachelor of Science in Computer Science
+        - Incoming PhD student supervised by <a href="https://zhuoliny.github.io/">Prof. Zhuolin Yang</a>.
+    - title: BS in Computer Science
       institution: Lahore University of Management Sciences (LUMS), Lahore, Pakistan
-      year: 2022 - 2025
+      year: 2022–2025
       description:
-        - CGPA&#58; 3.80
+        - "CGPA: 3.80 / 4.00"
         - Graduated with High Distinction
-        - Dean's Honor List&#58; 2021–2022, 2022–2023, 2023–2024, 2024–2025
 
 - title: Research Experience
   type: time_table
   contents:
     - title: Research Assistant
       institution: Lahore University of Management Sciences (LUMS)
-      year: June 2025 – Aug. 2025
+      year: Jun.–Aug. 2025
       description:
-        - Advisor&#58; Dr. Zafar Ayyub Qazi
+        - "Advisor: Dr. Zafar Ayyub Qazi"
         - Performed literature reviews, data preprocessing, and experimental result analysis.
     - title: BGP Data Analysis and Internet Shutdowns
       institution: LUMS
       year: May 2024
       description:
-        - Advisors&#58; Dr. Zafar Ayyub Qazi, Dr. Zartash Afzal Uzmi, Dr. Qasim Lone, Dr. James Cowie
+        - "Advisors: Dr. Zafar Ayyub Qazi, Dr. Zartash Afzal Uzmi, Dr. Qasim Lone, Dr. James Cowie"
         - Investigated BGP-level route changes to understand the impact of political events on country-wide network connectivity.
         - Analyzed BGP announcements, withdrawals, path inflation, routing anomalies, and AS Graphs.
-        - Explored the role of physical/logical centralization and state-owned ASes on disconnection levels.
+        - Explored the role of physical and logical centralization and state-owned ASes on disconnection.
         - Plan to submit findings to IMC '26.
     - title: Efficacy of Large Language Models on PDF Data Extraction
       institution: LUMS
       year: Oct. 2023
       description:
-        - Advisors&#58; Dr. Zafar Ayyub Qazi, Dr. Ihsan Ayyub Qazi
+        - "Advisors: Dr. Zafar Ayyub Qazi, Dr. Ihsan Ayyub Qazi"
         - Evaluated GPT-4 and other LLMs for extracting structured data from PTA QoS unstructured datasets.
         - Designed a JSON-based data extraction pipeline, enhancing accuracy to 96.8%.
+        - Developed automation tools using Selenium for PDF processing and QGIS for geo-referencing telecom data.
         - Conducted ablation studies on prompting strategies with few-shot and chain-of-thought approaches.
     - title: Mutation Localization in Proteins Using Learned Representations
       institution: University of Arizona
       year: Aug. 2025
       description:
-        - Advisor&#58; Dr. Claire McWhite
+        - "Advisor: Dr. Claire McWhite"
         - Designed a machine learning framework to localize unseen point mutations in protein sequences.
-        - Utilized transformer-based Protein Language Models (PLMs) for mutation localization.
-        - Adopted a two-stage training strategy; evaluated localization accuracy using distance-based metrics.
+        - Utilized transformer-based Protein Language Models (PLMs) to extract sequence representations.
+        - Adopted a two-stage training strategy for mutation localization under realistic experimental constraints.
+        - Evaluated localization accuracy using distance-based metrics derived from known protein structures.
     - title: Investigating Donation Scams on Twitter
       institution: LUMS
       year: Dec. 2024
       description:
-        - Advisors&#58; Dr. Fareed Zaffar, Dr. Afsah Anwar, Dr. Bhupendra Acharya
-        - Analyzed cases where scammers impersonate authentic Twitter users to divert charitable donations.
-        - Scraped archive.ph for snapshots of scam profiles; developing a honeypot experiment.
+        - "Advisors: Dr. Fareed Zaffar, Dr. Afsah Anwar, Dr. Bhupendra Acharya"
+        - Analyzed cases where scammers impersonate authentic Twitter users to divert donations to fraudulent PayPal addresses.
+        - Scraped archive.ph for snapshots of reported scam profiles.
+        - Developing a honeypot experiment to understand scammer targeting behavior.
 
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: Teaching Assistant — CS-200&#58; Introduction to Advanced Programming
+    - title: "Teaching Assistant — CS-200: Introduction to Advanced Programming"
       institution: Lahore University of Management Sciences (LUMS)
-      year: Jan. 2024 – Dec. 2024
+      year: Jan.–Dec. 2024
       description:
         - Created and graded quizzes and assignments for over 250 students.
         - Invigilated exams, organized labs, held tutorials, and office hours.
@@ -81,19 +71,36 @@
       institution: Lahore University of Management Sciences (LUMS)
       year: Aug. 2024
       description:
-        - Guided high school students through modules on Internet fundamentals&#58; routing, data reliability, congestion control, and security.
-    - title: Teaching Internship
-      institution: Lahore Literati Montessori and High School
-      year: July 2019 – Aug. 2019
-      description:
-        - Assisted in teaching various subjects to elementary students.
-    - title: Robowars — PSIFI Event Mentor
+        - Guided high school students through interactive modules on Internet fundamentals including routing, data reliability, congestion control, and Internet security.
+    - title: Robowars — PSIFI Event Instructor
       institution: Lahore University of Management Sciences (LUMS)
-      year: Sept. 2022 – Oct. 2022
+      year: Sept.–Oct. 2022
       description:
         - Guided students in building RC cars from scratch; provided parts and demonstrations.
+    - title: Teaching Internship
+      institution: Lahore Literati Montessori and High School
+      year: Jul.–Aug. 2019
+      description:
+        - Assisted in teaching various subjects to elementary students.
 
-- title: Technical Skills
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - "Dean's Honor List 2024–2025"
+        - Graduated with High Distinction
+    - year: 2024
+      items:
+        - "Dean's Honor List 2023–2024"
+    - year: 2023
+      items:
+        - "Dean's Honor List 2022–2023"
+    - year: 2022
+      items:
+        - "Dean's Honor List 2021–2022"
+
+- title: Skills
   type: nested_list
   contents:
     - title: Programming Languages
@@ -107,26 +114,20 @@
         - RIPE Atlas, RIPE NCC, BGPlay, Wireshark, BGPstream
     - title: Tools
       items:
-        - Git, LaTeX, Selenium, Qiskit, MS Office Suite
+        - Git, LaTeX, Selenium, QGIS, Qiskit, MS Office Suite
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2025
-      items:
-        - Graduated with High Distinction — LUMS
-    - year: 2021–2025
-      items:
-        - Dean's Honor List (4 consecutive years) — LUMS
-
-- title: Relevant Coursework
+- title: Academic Interests
   type: nested_list
   contents:
-    - title: Undergraduate-Level
+    - title: Mobile Computing & Usable Security
       items:
-        - Algorithms, Data Structures, Databases, Software Engineering, Operating Systems
-        - Network-Centric Computing, Network Security, Introduction to Quantum Computing
-    - title: Graduate-Level
+        - Security and privacy risks in sensor-rich mobile systems
+        - Acoustic side-channel attacks and keystroke inference
+    - title: Applied Machine Learning
       items:
-        - Distributed Systems, Topics in Internet Research
-        - Topics in Large Language Models, Topics in Computers and Network Security
+        - Data-driven methods for security analysis
+        - Protein language models and bioinformatics
+    - title: Internet Measurement & Networked Systems
+      items:
+        - BGP analysis and Internet shutdown detection
+        - Network infrastructure and centralization
