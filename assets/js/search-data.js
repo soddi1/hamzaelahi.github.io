@@ -16,26 +16,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/hamzaelahi.github.io/projects/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/hamzaelahi.github.io/repositories/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "You can also download a PDF version using the button above.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/hamzaelahi.github.io/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/hamzaelahi.github.io/teaching/";
           },
         },{id: "post-a-post-with-plotly-js",
         
