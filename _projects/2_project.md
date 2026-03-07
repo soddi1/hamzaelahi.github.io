@@ -1,23 +1,8 @@
 ---
 layout: page
-title: Chat Server Summarizer
-description: A backend service that ingests messages in real time from Discord, Slack, and Telegram with AI-powered summarization.
+title: project 2
+description: a project with a background image and giscus comments
 img: assets/img/3.jpg
-importance: 2
-category: AI
----
-
-A backend service that ingests messages in real time from **Discord**, **Slack**, and **Telegram**, storing them in a PostgreSQL database for unified archiving and analysis.
-
-**Key Features:**
-- Real-time message ingestion from multiple platforms.
-- On-demand summarization via a Discord slash command using GPT-4.
-- Per-platform, per-channel summaries generated through FastAPI and asynchronous pipelines.
-
-**Tech Stack:** Python, FastAPI, SQLAlchemy, PostgreSQL, OpenAI API
-
-**GitHub:** <a href="https://github.com/soddi1/chat-summary-server" target="_blank">soddi1/chat-summary-server</a>
-
 importance: 2
 category: work
 giscus_comments: true
