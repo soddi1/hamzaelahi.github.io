@@ -1,12 +1,22 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: ScholarRAG
+description: A hybrid Retrieval-Augmented Generation (RAG) system for research Q&A using FAISS-indexed academic papers with optional live Wikipedia retrieval.
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
+github: https://github.com/soddi1/research-rag-assistant
 ---
+
+**Tech Stack:** Python, LangChain, FAISS, OpenAI API, Wikipedia
+
+Built a hybrid Retrieval-Augmented Generation (RAG) system that answers research queries using a FAISS-indexed vector store of academic papers with optional live Wikipedia retrieval.
+
+- Implemented document ingestion, embedding, and context-assembly pipeline via LangChain with citation tracking.
+- Exposed a REST API for research Q&A, achieving 99% retrieval accuracy on benchmark queries.
+- Supported optional live Wikipedia retrieval to supplement indexed paper knowledge.
+
+[View on GitHub](https://github.com/soddi1/research-rag-assistant){:target="_blank"}
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
