@@ -5,10 +5,8 @@
       value: Sheikh Hamza Elahi Sodana
     - name: Email
       value: sodana@arizona.edu
-    - name: Phone
-      value: 520-437-3298
     - name: Location
-      value: Tucson, Arizona 85719
+      value: Tucson, Arizona
     - name: Languages
       value: English, Urdu
 
@@ -26,7 +24,7 @@
       description:
         - CGPA&#58; 3.80
         - Graduated with High Distinction
-        - Dean's Honor List&#58; 2021-2022, 2022-2023, 2023-2024, 2024-2025
+        - Dean's Honor List&#58; 2021–2022, 2022–2023, 2023–2024, 2024–2025
 
 - title: Research Experience
   type: time_table
@@ -42,19 +40,18 @@
       year: May 2024
       description:
         - Advisors&#58; Dr. Zafar Ayyub Qazi, Dr. Zartash Afzal Uzmi, Dr. Qasim Lone, Dr. James Cowie
-        - Investigated BGP level route changes to understand the impact of political events on country-wide network connectivity.
+        - Investigated BGP-level route changes to understand the impact of political events on country-wide network connectivity.
         - Analyzed BGP announcements, withdrawals, path inflation, routing anomalies, and AS Graphs.
-        - Explored physical and logical centralization and state-owned ASes' role in disconnection.
+        - Explored the role of physical/logical centralization and state-owned ASes on disconnection levels.
         - Plan to submit findings to IMC '26.
     - title: Efficacy of Large Language Models on PDF Data Extraction
       institution: LUMS
       year: Oct. 2023
       description:
         - Advisors&#58; Dr. Zafar Ayyub Qazi, Dr. Ihsan Ayyub Qazi
-        - Evaluated GPT-4 and other LLMs for extracting structured data from PTA QoS datasets.
+        - Evaluated GPT-4 and other LLMs for extracting structured data from PTA QoS unstructured datasets.
         - Designed a JSON-based data extraction pipeline, enhancing accuracy to 96.8%.
-        - Developed automation tools using Selenium for PDF processing and QGIS for geo-referencing.
-        - Conducted ablation studies on prompting strategies using few-shot and chain-of-thought approaches.
+        - Conducted ablation studies on prompting strategies with few-shot and chain-of-thought approaches.
     - title: Mutation Localization in Proteins Using Learned Representations
       institution: University of Arizona
       year: Aug. 2025
@@ -62,15 +59,14 @@
         - Advisor&#58; Dr. Claire McWhite
         - Designed a machine learning framework to localize unseen point mutations in protein sequences.
         - Utilized transformer-based Protein Language Models (PLMs) for mutation localization.
-        - Adopted a two-stage training strategy to guide a model trained only on mutated sequences.
+        - Adopted a two-stage training strategy; evaluated localization accuracy using distance-based metrics.
     - title: Investigating Donation Scams on Twitter
       institution: LUMS
       year: Dec. 2024
       description:
         - Advisors&#58; Dr. Fareed Zaffar, Dr. Afsah Anwar, Dr. Bhupendra Acharya
-        - Analyzing scammers impersonating authentic Twitter users to divert donations to fraudulent PayPal addresses.
-        - Scraped archive.ph for snapshots of reported scam profiles.
-        - Developing a honeypot experiment to understand scammer behavior.
+        - Analyzed cases where scammers impersonate authentic Twitter users to divert charitable donations.
+        - Scraped archive.ph for snapshots of scam profiles; developing a honeypot experiment.
 
 - title: Teaching Experience
   type: time_table
@@ -80,18 +76,18 @@
       year: Jan. 2024 – Dec. 2024
       description:
         - Created and graded quizzes and assignments for over 250 students.
-        - Invigilated exams, organized labs, held tutorials and office hours.
+        - Invigilated exams, organized labs, held tutorials, and office hours.
     - title: FutureTech Program Instructor
       institution: Lahore University of Management Sciences (LUMS)
       year: Aug. 2024
       description:
-        - Guided high school students through modules on Internet fundamentals&#58; routing, data reliability, congestion control, and Internet security.
+        - Guided high school students through modules on Internet fundamentals&#58; routing, data reliability, congestion control, and security.
     - title: Teaching Internship
       institution: Lahore Literati Montessori and High School
       year: July 2019 – Aug. 2019
       description:
         - Assisted in teaching various subjects to elementary students.
-    - title: Robowars — PSIFI Event Instructor
+    - title: Robowars — PSIFI Event Mentor
       institution: Lahore University of Management Sciences (LUMS)
       year: Sept. 2022 – Oct. 2022
       description:
@@ -111,17 +107,17 @@
         - RIPE Atlas, RIPE NCC, BGPlay, Wireshark, BGPstream
     - title: Tools
       items:
-        - MS Office Suite, Git, LaTeX, Selenium, Qiskit
+        - Git, LaTeX, Selenium, Qiskit, MS Office Suite
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2021 – 2025
-      items:
-        - Dean's Honor List — University of Management Sciences (LUMS)
     - year: 2025
       items:
         - Graduated with High Distinction — LUMS
+    - year: 2021–2025
+      items:
+        - Dean's Honor List (4 consecutive years) — LUMS
 
 - title: Relevant Coursework
   type: nested_list

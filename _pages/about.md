@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Gould Simpson Room 721</p>
     <p>University of Arizona</p>
-    <p>Tucson, Arizona 85719</p>
+    <p>Tucson, Arizona</p>
     <p>sodana@arizona.edu</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
