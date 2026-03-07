@@ -2,7 +2,7 @@
 layout: page
 title: Chat Server Summarizer
 description: A backend service that ingests messages from Discord, Slack, and Telegram in real time and generates on-demand AI summaries.
-img: assets/img/3.jpg
+img: assets/img/image copy.jpg
 importance: 2
 category: work
 github: https://github.com/soddi1/chat-summary-server

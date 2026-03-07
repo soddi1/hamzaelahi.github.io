@@ -2,7 +2,7 @@
 layout: page
 title: ScholarRAG
 description: A hybrid Retrieval-Augmented Generation (RAG) system for research Q&A using FAISS-indexed academic papers with optional live Wikipedia retrieval.
-img: assets/img/7.jpg
+img: assets/img/image.png
 importance: 3
 category: work
 github: https://github.com/soddi1/research-rag-assistant
