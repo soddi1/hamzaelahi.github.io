@@ -28,8 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an incoming PhD student in Computer Science at the [University of Arizona](https://www.cs.arizona.edu/), starting August 2026. I completed my Bachelor of Science in Computer Science at the [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/) with a CGPA of 3.80, graduating with High Distinction.
+I am an incoming PhD student in Computer Science at the [University of Arizona](https://www.cs.arizona.edu/), starting August 2026, where I will be advised by [Dr. Zhuolin Yang](https://zhuoliny.github.io/). I completed my Bachelor of Science in Computer Science at the [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/) with a CGPA of 3.80, graduating with High Distinction.
 
 My research interests lie in mobile computing, usable security, and applied machine learning. I am particularly interested in understanding security and privacy risks in sensor-rich mobile systems and developing data-driven methods to analyze them. I am currently working on an acoustic side-channel keystroke inference project using smartphone sensor and microphone data. My previous work includes projects on BGP data analysis and Internet shutdown detection, LLM-based PDF data extraction, protein mutation localization using language models, and donation scam detection on social media.
 
-Previously, I worked as a Research Assistant at Lahore University of Management Sciences (LUMS) under [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/). I will begin my PhD in Computer Science at the University of Arizona under the supervision of [Dr. Zhuolin Yang](https://zhuoliny.github.io/). I have also collaborated with researchers at the University of Arizona, LUMS, and CAIDA.
+Previously, I worked as a Research Assistant at Lahore University of Management Sciences (LUMS) under [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/). I have also collaborated with researchers at RIPE.
