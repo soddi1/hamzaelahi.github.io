@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Teaching and mentorship experience.",
+          description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/hamzaelahi.github.io/teaching/";
@@ -416,19 +416,19 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-distributed-key-value-store-raft",
-          title: 'Distributed Key-Value Store (RAFT)',
-          description: "A fault-tolerant distributed key-value store using the Raft consensus algorithm, built in Go.",
+          section: "News",},{id: "projects-project-1",
+          title: 'project 1',
+          description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/hamzaelahi.github.io/projects/1_project/";
-            },},{id: "projects-chat-server-summarizer",
-          title: 'Chat Server Summarizer',
-          description: "A backend service that ingests messages in real time from Discord, Slack, and Telegram with AI-powered summarization.",
+            },},{id: "projects-project-2",
+          title: 'project 2',
+          description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/hamzaelahi.github.io/projects/2_project/";
-            },},{id: "projects-scholarrag",
-          title: 'ScholarRAG',
-          description: "A hybrid Retrieval-Augmented Generation system that answers research queries using a FAISS-indexed vector store of academic papers.",
+            },},{id: "projects-project-3-with-very-long-name",
+          title: 'project 3 with very long name',
+          description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/hamzaelahi.github.io/projects/3_project/";
             },},{
