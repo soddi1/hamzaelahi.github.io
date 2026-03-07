@@ -402,19 +402,19 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-distributed-key-value-store-raft",
+          title: 'Distributed Key-Value Store (RAFT)',
+          description: "A fault-tolerant distributed key-value store using the Raft consensus algorithm, with WAL-based crash recovery.",
           section: "Projects",handler: () => {
               window.location.href = "/hamzaelahi.github.io/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-chat-server-summarizer",
+          title: 'Chat Server Summarizer',
+          description: "A backend service that ingests messages from Discord, Slack, and Telegram in real time and generates on-demand AI summaries.",
           section: "Projects",handler: () => {
               window.location.href = "/hamzaelahi.github.io/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-scholarrag",
+          title: 'ScholarRAG',
+          description: "A hybrid Retrieval-Augmented Generation (RAG) system for research Q&amp;A using FAISS-indexed academic papers with optional live Wikipedia retrieval.",
           section: "Projects",handler: () => {
               window.location.href = "/hamzaelahi.github.io/projects/3_project/";
             },},{
