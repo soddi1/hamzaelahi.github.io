@@ -1,3 +1,15 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Sheikh Hamza Elahi Sodana
+    - name: Email
+      value: sodana@arizona.edu
+    - name: Location
+      value: Tucson, Arizona, USA
+    - name: Languages
+      value: English, Urdu
+
 - title: Education
   type: time_table
   contents:
@@ -72,11 +84,6 @@
       year: Aug. 2024
       description:
         - Guided high school students through interactive modules on Internet fundamentals including routing, data reliability, congestion control, and Internet security.
-    - title: Robowars — PSIFI Event Instructor
-      institution: Lahore University of Management Sciences (LUMS)
-      year: Sept.–Oct. 2022
-      description:
-        - Guided students in building RC cars from scratch; provided parts and demonstrations.
     - title: Teaching Internship
       institution: Lahore Literati Montessori and High School
       year: Jul.–Aug. 2019
