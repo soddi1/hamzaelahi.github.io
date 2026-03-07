@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming PhD Student · <a href='https://www.cs.arizona.edu/'>University of Arizona, Department of Computer Science</a>
+subtitle: PhD Student at University of Arizona | Computer Science
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Tucson, Arizona 85719</p>
-    <p><a href="mailto:sodana@arizona.edu">sodana@arizona.edu</a></p>
+    <p>sodana@arizona.edu</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an incoming PhD student in Computer Science at the [University of Arizona](https://www.cs.arizona.edu/), starting August 2026. I completed my Bachelor of Science in Computer Science from the [Lahore University of Management Sciences (LUMS)](https://www.lums.edu.pk/) in May 2025, graduating with High Distinction and a CGPA of 3.80.
+I am an incoming PhD student in Computer Science at the [University of Arizona](https://www.cs.arizona.edu/), starting August 2026. I completed my Bachelor of Science in Computer Science at the [Lahore University of Management Sciences (LUMS)](https://lums.edu.pk/) with a CGPA of 3.80, graduating with High Distinction.
 
-My research interests span computer networking, machine learning, and natural language processing. I have worked on projects involving BGP data analysis and Internet shutdowns, LLM-based data extraction from unstructured documents, protein mutation localization using transformer-based models, and social media security.
+My research interests span networked systems, internet measurement, and machine learning. I have worked on projects involving BGP data analysis and internet shutdowns, LLM-based PDF data extraction, protein mutation localization using language models, and donation scam detection on social media.
 
-Outside of research, I enjoy building distributed systems and AI-powered applications. Take a look at my [projects](/projects/) and [CV](/cv/) for more details.
+Previously, I worked as a Research Assistant at LUMS under [Dr. Zafar Ayyub Qazi](https://web.lums.edu.pk/~zafar/), and I have collaborated with researchers at the University of Arizona, LUMS, and CAIDA.
