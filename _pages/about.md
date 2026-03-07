@@ -9,6 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Gould Simpson Room 721</p>
+    <p>University of Arizona</p>
     <p>Tucson, Arizona 85719</p>
     <p>sodana@arizona.edu</p>
 

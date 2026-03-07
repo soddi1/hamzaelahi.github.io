@@ -5,109 +5,97 @@
       value: Sheikh Hamza Elahi Sodana
     - name: Email
       value: sodana@arizona.edu
+    - name: Phone
+      value: 520-437-3298
     - name: Location
-      value: Tucson, Arizona, USA
+      value: Tucson, Arizona 85719
+    - name: Languages
+      value: English, Urdu
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Computer Science
       institution: University of Arizona, Tucson, AZ, USA
-      year: Aug 2026
+      year: Aug. 2026
       description:
         - Incoming PhD student.
     - title: Bachelor of Science in Computer Science
       institution: Lahore University of Management Sciences (LUMS), Lahore, Pakistan
-      year: 2022 – 2025
+      year: 2022 - 2025
       description:
-        - "CGPA: 3.80"
-        - Graduated with High Distinction.
-        - Dean's Honor List for 2021-2022, 2022-2023, 2023-2024, 2024-2025.
+        - CGPA&#58; 3.80
+        - Graduated with High Distinction
+        - Dean's Honor List&#58; 2021-2022, 2022-2023, 2023-2024, 2024-2025
 
 - title: Research Experience
   type: time_table
   contents:
     - title: Research Assistant
-      institution: Lahore University of Management Sciences
-      year: Jun – Aug 2025
+      institution: Lahore University of Management Sciences (LUMS)
+      year: June 2025 – Aug. 2025
       description:
-        - "Advisor: Dr. Zafar Ayyub Qazi"
+        - Advisor&#58; Dr. Zafar Ayyub Qazi
         - Performed literature reviews, data preprocessing, and experimental result analysis.
-    - title: Mutation Localization in Proteins Using Learned Representations
-      institution: University of Arizona
-      year: Aug 2025
-      description:
-        - "Advisor: Dr. Claire McWhite"
-        - Designed a machine learning framework to localize unseen point mutations in protein sequences.
-        - Utilized transformer-based Protein Language Models (PLMs) to extract learned sequence representations.
-        - Adopted a two-stage training strategy and evaluated localization accuracy using distance-based metrics.
-    - title: Investigating Donation Scams on Twitter
-      institution: Lahore University of Management Sciences
-      year: Dec 2024
-      description:
-        - "Advisors: Dr. Fareed Zaffar, Dr. Afsah Anwar, Dr. Bhupendra Acharya"
-        - Analyzing cases where scammers impersonate authentic Twitter users posting about charitable causes.
-        - Scraped archive.ph for snapshots of reported scam profiles.
-        - Developing a honeypot experiment to understand scammer behavior.
     - title: BGP Data Analysis and Internet Shutdowns
-      institution: Lahore University of Management Sciences
+      institution: LUMS
       year: May 2024
       description:
-        - "Advisors: Dr. Zafar Ayyub Qazi, Dr. Zartash Afzal Uzmi, Dr. Qasim Lone, Dr. James Cowie"
-        - Investigated BGP-level route changes to understand the impact of political events on country-wide network connectivity.
+        - Advisors&#58; Dr. Zafar Ayyub Qazi, Dr. Zartash Afzal Uzmi, Dr. Qasim Lone, Dr. James Cowie
+        - Investigated BGP level route changes to understand the impact of political events on country-wide network connectivity.
         - Analyzed BGP announcements, withdrawals, path inflation, routing anomalies, and AS Graphs.
+        - Explored physical and logical centralization and state-owned ASes' role in disconnection.
         - Plan to submit findings to IMC '26.
     - title: Efficacy of Large Language Models on PDF Data Extraction
-      institution: Lahore University of Management Sciences
-      year: Oct 2023
+      institution: LUMS
+      year: Oct. 2023
       description:
-        - "Advisors: Dr. Zafar Ayyub Qazi, Dr. Ihsan Ayyub Qazi"
-        - Evaluated GPT-4 and other LLMs for extracting structured data from PTA's QoS unstructured datasets.
-        - Designed a JSON-based data extraction pipeline enhancing accuracy to 96.8%.
-        - Conducted ablation studies on prompting strategies with few-shot and chain-of-thought approaches.
+        - Advisors&#58; Dr. Zafar Ayyub Qazi, Dr. Ihsan Ayyub Qazi
+        - Evaluated GPT-4 and other LLMs for extracting structured data from PTA QoS datasets.
+        - Designed a JSON-based data extraction pipeline, enhancing accuracy to 96.8%.
+        - Developed automation tools using Selenium for PDF processing and QGIS for geo-referencing.
+        - Conducted ablation studies on prompting strategies using few-shot and chain-of-thought approaches.
+    - title: Mutation Localization in Proteins Using Learned Representations
+      institution: University of Arizona
+      year: Aug. 2025
+      description:
+        - Advisor&#58; Dr. Claire McWhite
+        - Designed a machine learning framework to localize unseen point mutations in protein sequences.
+        - Utilized transformer-based Protein Language Models (PLMs) for mutation localization.
+        - Adopted a two-stage training strategy to guide a model trained only on mutated sequences.
+    - title: Investigating Donation Scams on Twitter
+      institution: LUMS
+      year: Dec. 2024
+      description:
+        - Advisors&#58; Dr. Fareed Zaffar, Dr. Afsah Anwar, Dr. Bhupendra Acharya
+        - Analyzing scammers impersonating authentic Twitter users to divert donations to fraudulent PayPal addresses.
+        - Scraped archive.ph for snapshots of reported scam profiles.
+        - Developing a honeypot experiment to understand scammer behavior.
 
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: Teaching Assistant – CS-200, Introduction to Advanced Programming
-      institution: Lahore University of Management Sciences
-      year: 2024
+    - title: Teaching Assistant — CS-200&#58; Introduction to Advanced Programming
+      institution: Lahore University of Management Sciences (LUMS)
+      year: Jan. 2024 – Dec. 2024
       description:
         - Created and graded quizzes and assignments for over 250 students.
-        - Invigilated exams, organized labs, held tutorials, and office hours.
-    - title: <a href="https://summer.lums.edu.pk/future_tech.html">FutureTech Program</a>
-      institution: Lahore University of Management Sciences
-      year: Aug 2024
+        - Invigilated exams, organized labs, held tutorials and office hours.
+    - title: FutureTech Program Instructor
+      institution: Lahore University of Management Sciences (LUMS)
+      year: Aug. 2024
       description:
-        - Guided high school students through interactive modules on Internet fundamentals.
-        - Topics included routing, data reliability, congestion control, and Internet security.
-    - title: <a href="https://spades.lums.edu.pk/events.html?eventname=Robowars">Robowars – PSIFI Event</a>
-      institution: Lahore University of Management Sciences
-      year: Sept – Oct 2022
-      description:
-        - Guided students in building RC cars from scratch and provided parts and demonstrations.
+        - Guided high school students through modules on Internet fundamentals&#58; routing, data reliability, congestion control, and Internet security.
     - title: Teaching Internship
       institution: Lahore Literati Montessori and High School
-      year: Jul – Aug 2019
+      year: July 2019 – Aug. 2019
       description:
         - Assisted in teaching various subjects to elementary students.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2025
-      items:
-        - Graduated with High Distinction, LUMS
-        - Dean's Honor List 2024–2025
-    - year: 2024
-      items:
-        - Dean's Honor List 2023–2024
-    - year: 2023
-      items:
-        - Dean's Honor List 2022–2023
-    - year: 2022
-      items:
-        - Dean's Honor List 2021–2022
+    - title: Robowars — PSIFI Event Instructor
+      institution: Lahore University of Management Sciences (LUMS)
+      year: Sept. 2022 – Oct. 2022
+      description:
+        - Guided students in building RC cars from scratch; provided parts and demonstrations.
 
 - title: Technical Skills
   type: nested_list
@@ -123,15 +111,26 @@
         - RIPE Atlas, RIPE NCC, BGPlay, Wireshark, BGPstream
     - title: Tools
       items:
-        - Git, LaTeX, Selenium, Qiskit, MS Office Suite
+        - MS Office Suite, Git, LaTeX, Selenium, Qiskit
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2021 – 2025
+      items:
+        - Dean's Honor List — University of Management Sciences (LUMS)
+    - year: 2025
+      items:
+        - Graduated with High Distinction — LUMS
 
 - title: Relevant Coursework
   type: nested_list
   contents:
-    - title: Undergraduate
+    - title: Undergraduate-Level
       items:
-        - Algorithms, Data Structures, Databases, Software Engineering, Operating Systems, Network-Centric Computing, Network Security, Introduction to Quantum Computing
-    - title: Graduate
+        - Algorithms, Data Structures, Databases, Software Engineering, Operating Systems
+        - Network-Centric Computing, Network Security, Introduction to Quantum Computing
+    - title: Graduate-Level
       items:
-        - Distributed Systems, Topics in Internet Research, Topics in Large Language Models, Topics in Computers and Network Security
-
+        - Distributed Systems, Topics in Internet Research
+        - Topics in Large Language Models, Topics in Computers and Network Security
